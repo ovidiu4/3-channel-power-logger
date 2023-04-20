@@ -1,2 +1,2 @@
-# 3-channel-power-logger
-ESP32 and INA3221 powered power logger with TFT display and micro SD card
+# ESP32 + INA3221 Power Logger 
+**with TFT display, micro SD card and battery**
